@@ -1,0 +1,7 @@
+
+
+1.Create abc_corp database and create calldata collection.
+2.Import the json file to the mongodb database using commands.
+3.Add one document to the abc_corp database.
+4.Display the count of the roaming which is equal to true.
+5.Display the document whose call charge greater than 10.
